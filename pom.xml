@@ -57,4 +57,13 @@
             </plugin>
         </plugins>
     </build>
+   <distributionManagement>
+	  <repository>
+	  <id>internal</id>
+	  <name>Internal Repository-release</name>
+	  <url>
+	      dav:http://54.152.15.41:8081/#browse/browse
+		  </url>
+	  </repository>
+     </distributionManagement> 
 </project>
