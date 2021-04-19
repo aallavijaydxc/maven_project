@@ -62,7 +62,7 @@
 	  <id>internal</id>
 	  <name>Internal Repository-release</name>
 	  <url>
-	      dav:http://54.152.15.41:8081/#browse/browse
+	      dav:http://54.152.15.41:8081/repository/maven-releases/
 		  </url>
 	  </repository>
      </distributionManagement> 
